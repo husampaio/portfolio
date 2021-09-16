@@ -5,6 +5,8 @@
 # Análise exploratória dos dados de pagamentos do benefício Bolsa Família realizados de 2018 à 2021
 ## EDA - Exploration Data Analysis
 
+![alt text](https://github.com/husampaio/portfolio/blob/main/Projeto1/imganual.png)
+
 O Objetivo principal deste projeto era coletar os dados do bolsa familia através da API do portal da transparência e analisar a evolução deste auxilio nos últimos anos.
 
 Conseguimos constatar que pós pandemia o valor pago disparou na maioria das regiões, apesar de Norte e Nordeste ainda liderarem o pagamento do auxilio. 
